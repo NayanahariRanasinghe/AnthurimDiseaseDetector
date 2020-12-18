@@ -1,0 +1,7 @@
+0 Healthy Leaves
+1 Healthy Flowers
+2 Healthy Root
+3 Bacterial Blight Leaves
+4 Bacterial Blight Flowers
+5 Root Rot
+6 Black Nose
